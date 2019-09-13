@@ -1,0 +1,18 @@
+React nanodegree project NO : 1
+Main Page:
+I should have three shalves :
+1-currently reading
+2-want to read
+3-read
+========================================
+Search Page '/Search':
+allows me to search for certain books add it to main page
+Search page have >>>>> 1-text input
+		 >>>>> 2-Link to main page
+=============================
+Classes structure :
+1-Class App : Display all the compenents and start the server
+2-Class Search : Display page that allow user to search for certain book and add it
+3-Class Option : Display options for the user to move or add thier book to any of three shelfs
+4-Class BookList : Display the books in thier right shelf and take in object of class book
+5-Class Book : Display Image of Books and determine weather the book have thumbnail or not if it have they will be display and if there is not thumbnail it will display image and will take object from Option class to display the options alongs with the books
