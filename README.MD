@@ -1,11 +1,12 @@
-ReadMe Project by hamad description:
-The website looks allows to store your books in three shelfs :
+ReadMe Project by hamad
+description:
+The website allows you to view your & store your books in three shelfs :
 1-Want to read
 2-Currently reading
 3-Read
-The goal of this website as i said to store your books rather than memories it book by book
+The goal of this website to store your books rather than memories them book by book
 
-You can search for certain book in the search book and add it to any of shelfs
+You can search for certain book in the search bar and add it to any of the  shelfs
 
 I have used Reactjs to bulid this website
 
@@ -23,7 +24,7 @@ I have used Reactjs to bulid this website
 
 
 3-after you install (npm) you should enter this command in your comman prompt
-	npm start--------> wait 5sec until the project opens in your browser it will be port nummber (3000)
+	npm start--------> wait 5sec until the project opens in your browser it will open at port number (3000)
 
 
 Support : 
