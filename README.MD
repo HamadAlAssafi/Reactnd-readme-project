@@ -2,8 +2,17 @@ ReadMe Project by Hamad
 description:
 The website allows you to view & store your books in three shelfs :
 1-Want to read
+
+
+
 2-Currently reading
+
+
+
 3-Read
+
+
+
 The goal of this website to store your books rather than memories them book by book
 
 You can search for certain book in the search bar and add it to any of the  shelfs
