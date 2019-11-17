@@ -1,6 +1,6 @@
-ReadMe Project by hamad
+ReadMe Project by Hamad
 description:
-The website allows you to view your & store your books in three shelfs :
+The website allows you to view & store your books in three shelfs :
 1-Want to read
 2-Currently reading
 3-Read
