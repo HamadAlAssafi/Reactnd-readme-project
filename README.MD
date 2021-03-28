@@ -18,7 +18,7 @@ The website allows you to view & store your books in three shelfs :
 
 The goal of this website to store your books rather than memories them book by book
 
-You can search for certain book in the search bar and add it to any of the  shelfs
+You can search for certain book in the search bar which is connected with an Application Programming Interface (API) and add it to any of the  shelfs
 
 I have used Reactjs to bulid this website
 
